@@ -1,0 +1,13 @@
+{
+	"scripts": {
+		"start": "webpack --env development",
+		"build": "webpack --env production"
+	},
+	"devDependencies": {
+		"webpack": "^4.39.1",
+		"webpack-cli": "^3.3.6"
+	},
+	"dependencies": {
+		"babel-loader": "^8.0.6"
+	}
+}
