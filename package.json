@@ -4,10 +4,10 @@
 		"build": "webpack --env production"
 	},
 	"devDependencies": {
-		"webpack": "^4.39.1",
-		"webpack-cli": "^3.3.6"
+		"webpack": "^5.75.0",
+		"webpack-cli": "^5.0.1"
 	},
 	"dependencies": {
-		"babel-loader": "^8.0.6"
+		"babel-loader": "^8.3.0"
 	}
 }
